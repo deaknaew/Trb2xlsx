@@ -1,5 +1,5 @@
 # Trb2xlsx
-(3DS) TRB Export tool (to/from EXCEL) for 3DS game [「NEWラブプラス+」/「NEWLOVEPLUS+」](http://www.konami.jp/products/newloveplus_plus/).
+TRB Export tool (to/from EXCEL) for 3DS game [「NEWラブプラス+」/「NEWLOVEPLUS+」](http://www.konami.jp/products/newloveplus_plus/).
 
 
 Drag & Drop to convert a TRB to XLSX and back to TRB.
