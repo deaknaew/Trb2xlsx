@@ -1,0 +1,13 @@
+C:\Users\Palm\Documents\Visual Studio 2015\Projects\trbexport\TrbExport\bin\Debug\Trb2xlsx.exe.config
+C:\Users\Palm\Documents\Visual Studio 2015\Projects\trbexport\TrbExport\obj\Debug\Trb2xlsx.exe
+C:\Users\Palm\Documents\Visual Studio 2015\Projects\trbexport\TrbExport\obj\Debug\Trb2xlsx.pdb
+C:\Users\Palm\Documents\Visual Studio 2015\Projects\trbexport\TrbExport\bin\Debug\lookup.txt
+C:\Users\Palm\Documents\Visual Studio 2015\Projects\trbexport\TrbExport\bin\Debug\cdeb
+C:\Users\Palm\Documents\Visual Studio 2015\Projects\trbexport\TrbExport\bin\Debug\cdei
+C:\Users\Palm\Documents\Visual Studio 2015\Projects\trbexport\TrbExport\bin\Debug\CONF
+C:\Users\Palm\Documents\Visual Studio 2015\Projects\trbexport\TrbExport\bin\Debug\INDX
+C:\Users\Palm\Documents\Visual Studio 2015\Projects\trbexport\TrbExport\bin\Debug\Trb2xlsx.exe
+C:\Users\Palm\Documents\Visual Studio 2015\Projects\trbexport\TrbExport\bin\Debug\Trb2xlsx.pdb
+C:\Users\Palm\Documents\Visual Studio 2015\Projects\trbexport\TrbExport\bin\Debug\EPPlus.dll
+C:\Users\Palm\Documents\Visual Studio 2015\Projects\trbexport\TrbExport\bin\Debug\EPPlus.xml
+C:\Users\Palm\Documents\Visual Studio 2015\Projects\trbexport\TrbExport\obj\Debug\Trb2xlsx.csprojResolveAssemblyReference.cache
