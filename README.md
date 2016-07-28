@@ -1,4 +1,4 @@
-# trb2xlsx
+# Trb2xlsx
 TRB Export tool (to/from EXCEL) for 3DS game [「NEWラブプラス+」/「NEWLOVEPLUS+」](http://www.konami.jp/products/newloveplus_plus/).
 
 
