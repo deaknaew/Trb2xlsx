@@ -5,5 +5,5 @@
 Drag & Drop to convert a TRB to XLSX and back to TRB.
 
 
-For exported **textresource_jpn.trb** file to load succesfully use included **code.bin** plugin file and also add modded **textresource_config.trb** file in (NLP+)**\SystemData\TextResource\** game folder.
+For exported **textresource_jpn.trb** file to load succesfully use included **code.bin** plugin and also add modded **textresource_config.trb** in (NLP+)**\SystemData\TextResource\**.
 
