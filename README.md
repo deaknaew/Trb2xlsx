@@ -5,5 +5,5 @@
 Drag & Drop to convert a TRB to XLSX and back to TRB.
 
 
-For exported file to load succesfully also include modded **textresource_config.trb** file in (NLP+)**\SystemData\TextResource\** folder.
+For exported file to load succesfully also include modded **textresource_config.trb** file in (NLP+)**\SystemData\TextResource\**.
 
