@@ -2,8 +2,8 @@
 (3DS) TRB Exporter (to/from EXCEL) for 3DS game [「NEWラブプラス+」/「NEWLOVEPLUS+」](http://www.konami.jp/products/newloveplus_plus/).
 
 
-Drag & Drop to convert a TEXI to PNG and back to TEXI.
+Drag & Drop to convert a TRB to XLSX and back to TRB.
 
 
-For exported file to load succesfully also include modded 'textresource_config.trb' file in (NLP+)\SystemData\TextResource\ folder.
+For exported file to load succesfully also include modded **textresource_config.trb** file in (NLP+)**\SystemData\TextResource\** folder.
 
